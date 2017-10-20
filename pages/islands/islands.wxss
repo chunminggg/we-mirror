@@ -1,0 +1,6 @@
+.image-group {
+  width: 230rpx;
+  height: 354rpx;
+  margin:10rpx;
+  float: left;
+}

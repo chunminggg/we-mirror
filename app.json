@@ -1,0 +1,18 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/login/login",
+    "pages/logs/logs",
+    "pages/itemList/itemList",
+    "pages/detail/detail",
+    "pages/reserve/reserve",
+    "pages/specialList/sepicalList",
+    "pages/islands/islands"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#18CBC3",
+    "navigationBarTitleText": "苏州镜面皮肤管理中心",
+    "navigationBarTextStyle": "white"
+  }
+}
