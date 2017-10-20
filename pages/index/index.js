@@ -152,7 +152,7 @@ wx.navigateTo({
 
     }
     return {
-      title: '超想去旅行',
+      title: '苏州镜面皮肤管理中心',
       path: '/pages/index/index',
       success: function (res) {
 
