@@ -29,25 +29,25 @@
     </view>
     <view class='itemCell' bindtap='clickMoreSpecialPriceList'>
       <view class='btn-round'>
-        <image src='../../img/海岛特价.png' class='btn-image'></image>
+        <image src='../../img/抗衰管理.png' class='btn-image'></image>
       </view>
       <view class='btn-text'>特价项目</view>
     </view>
     <view class='itemCell' bindtap='clickMoreRecommend'>
       <view class='btn-round'>
-        <image src='../../img/精品推荐.png' class='btn-image'></image>
+        <image src='../../img/补水嫩肤.png' class='btn-image'></image>
       </view>
       <view class='btn-text'>店长推荐</view>
     </view>
     <view class='itemCell' bindtap='clickMoreFollow'>
       <view class='btn-round'>
-        <image src='../../img/跟团游.png' class='btn-image'></image>
+        <image src='../../img/排毒管理.png' class='btn-image'></image>
       </view>
       <view class='btn-text'>特色项目</view>
     </view>
     <view class='itemCell' bindtap='clickMoreFree'>
       <view class='btn-round'>
-        <image src='../../img/自由行.png' class='btn-image'></image>
+        <image src='../../img/美白管理.png' class='btn-image'></image>
       </view>
       <view class='btn-text'>百安丽</view>
     </view>
